@@ -8,3 +8,4 @@ Verified Microsoft Learn achievements in Security, Azure and Intune. Click on ea
 - [Describe Azure infrastructure security services](https://learn.microsoft.com/api/achievements/share/pt-br/FranciscaKailaneFeitosaRodrigues-5196/3Z3FCG6H?sharingId=E2EC748308C0E5A6) - Nov 2026
 - [Describe Microsoft Security Copilot](https://learn.microsoft.com/api/achievements/share/pt-br/FranciscaKailaneFeitosaRodrigues-5196/9A9WGRDU?sharingId=E2EC748308C0E5A6) - Nov 2026
 - [Benefits of Microsoft Intune](https://learn.microsoft.com/api/achievements/share/pt-br/FranciscaKailaneFeitosaRodrigues-5196/3ZUGMATH?sharingId=E2EC748308C0E5A6) - Nov 2026
+- [Introduction to Microsoft security solutions](https://learn.microsoft.com/api/achievements/share/pt-br/FranciscaKailaneFeitosaRodrigues-5196/K9K555YB?sharingId=E2EC748308C0E5A6) - Nov 2026
